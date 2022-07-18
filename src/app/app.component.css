@@ -1,0 +1,35 @@
+#header1{
+    margin-left: 1em;
+    font-size: xx-large;
+    font-weight: bold;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    display: inline-block;
+}
+#header2{
+    margin-left: 1.3em;
+    font-size: x-large;
+    font-weight: bold;
+    padding-bottom: .5rem;
+    padding-top: 1rem;
+    display: inline-block;
+}
+  
+  button {
+    max-width: 300px;
+    margin-left: 2em;
+  }
+  
+.input-label{
+    margin-left: 2em;
+    margin-right: 2em;
+    font-size: medium;
+    font-weight: bold;
+    min-width: 150px;
+    padding-bottom: .5rem;
+    padding-top: 1rem;
+    display: inline-block;
+}
+#genderValue{
+    color: blue!important;;
+}
